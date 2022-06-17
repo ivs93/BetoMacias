@@ -152,16 +152,16 @@
   ],
   "images": [
     {
-      "uri": "https://github.com/BetoMacias/BetoMacias/blob/main/coin/textures/Gold_baseColor.png"
+      "uri": "Gold_baseColor.png"
     },
     {
-      "uri": "https://github.com/BetoMacias/BetoMacias/blob/main/coin/textures/Gold_metallicRoughness.png"
+      "uri": "Gold_metallicRoughness.png"
     },
     {
-      "uri": "https://github.com/BetoMacias/BetoMacias/blob/main/coin/textures/Gold_emissive.png"
+      "uri": "Gold_emissive.png"
     },
     {
-      "uri": "https://github.com/BetoMacias/BetoMacias/blob/main/coin/textures/Gold_normal.png"
+      "uri": "Gold_normal.png"
     }
   ],
   "materials": [
